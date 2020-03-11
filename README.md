@@ -10,4 +10,4 @@ CookRoom enables people to follow an audio guide for a chosen recipe and get the
 
 ## Project functions
 
-None for now
+- Administration of the submitted recipes.
